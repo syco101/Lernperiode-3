@@ -12,27 +12,41 @@ Heute habe ich mit Sebastian an dem Programmierproject Wortschatzquiz weitergear
 
 19.1.2024
 [ ] Das Problem beim Programmierprojekt finden und lösen
-[ ] Einen eigenen Notenrechner programmieren und die ersten Schritte schon mal machen
-[ ] Weiter an dem Modul 117 arbeiten
-[ ] Programmier Videos für c# schauen und mehr lernen
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-1				
-...				
-4				
+[ ] Einen eigenen Notenrechner programmieren und die ersten Schritte schon mal programmieren
+[ ] Weiter an dem Modul 117 arbeiten und mindistens 3 Aufträge lösen
+[ ] Programmier Videos für c# schauen und viel daraus lernen
+
+| Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
+| ----------| ------- | ------------------------------------------------------------ |------------------------------------|
+|     1      |Wörter anklicken |Lösungstaste bei der Schwirigkeit leicht | Anzahl der richtigen Wörtern |
+|    2   |Alle Noten hinein geschrieben   |       Kalkulieren-Taste                                                   | Durchschnitt aller Noten |
+|   3   | Bei einem Moodle test eine Aufgabe lösen   |          überprüft ob es richtig ist                                                 | Richtige Antwort|
+|   4   |  Video drauf klicken | pause dücken  | Video pausiert|
+|     |    |  |   |
+|       |    |   |   |
+|      |    | |   |
+|    |  |  |
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 26.1.2024
-[ ] Fünftes AP
-[ ] Spiel endet, wenn Schlange sich selber beisst
-
-[ ] Achtes AP
+[ ] Das Programmierprojekt zum funktionieren bringen und den Modus schwer so weit fertig bringen das man auf die clickboxen clicken kann
+[ ] An dem Notenrechner weiter programmieren und ihn fertig zu machen
+[ ] Weiter an dem Modul 117 arbeiten und mindistens 3 Moodle Aufträge lösen
+[ ] Diverse Youtube Videos schauen um mein wissen zu erweitern.
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-5				
-7	Spiel gestartet, Schlange lang genug, dass sie sich beissen kann	Schlange beisst sich selber	Spiel endet	
-8				
+| Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
+| ----------| ------- | ------------------------------------------------------------ |------------------------------------|
+|     1      |Wörter anklicken bei der Schwirigkeitsstufe Schwer |Lösungstaste | Anzahl der richtigen Wörtern |
+|    2   |Alle Noten hinein geschrieben   |       Kalkulieren-Taste                                                   | Durchschnitt aller Noten |
+|   3   | Bei einem Moodle auf die bewertungen klicken  |         es ladet                                             | es werden Fehler angezeigt.|
+|   4   |  Video drauf klicken | pause dücken  | Video pausiert|
+|     |    |  |   |
+|       |    |   |   |
+|      |    | |   |
+|    |  |  |
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
