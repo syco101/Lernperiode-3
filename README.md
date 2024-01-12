@@ -5,7 +5,7 @@ David Aksic
 12.1. bis 23.2.2024
 
 Grob-Planung
-Ich bin eigentich mit meinen Noten zufrieden auch wenn ich denke das ich in Englisch einen besseren Durchschnitt erreichen hätte können. Am besten war ich in dem Modul 431. Ich hatte in dem Modul eine 6 und in 319 und 162 hatte ich eine 4.5. Ich denke 319 war besonders wichtig weil man da am meisten programmierte und in den anderen Modulen lernte man eher andere Sachen wie die Bedinung von Excel usw. Ich habe mir vorgennomen in dieser lernperiode mehr zu planen und allgemein mehr zu programmieren. Ich könnte dies am besten üben indem ich einfach mehr arbeite und mehr Zeit investiere. Ein geeignetes Projekt wäre ein kleines Programm entweder ein Spiel oder ein hilfsmittel wie zb eine Stopuhr. (120)
+Ich bin eigentich mit meinen Noten zufrieden auch wenn ich denke das ich in Englisch einen besseren Durchschnitt erreichen hätte können. Am besten war ich in dem Modul 431. Ich hatte in dem Modul eine 6 und in 319 und 162 hatte ich eine 4.5. Ich denke 319 war besonders wichtig weil man da am meisten programmierte und in den anderen Modulen lernte man eher andere Sachen wie die Bedinung von Excel usw. Ich habe mir vorgennomen in dieser lernperiode mehr zu planen und allgemein mehr zu programmieren. Ich könnte dies am besten üben indem ich einfach mehr arbeite und mehr Zeit investiere. Ein geeignetes Projekt wäre ein kleines Programm entweder ein Spiel oder ein hilfsmittel wie zb eine Nottenrechner. (120)
 
 12.1.2024
 ✍️ Heute habe ich... (50-100 Wörter)
