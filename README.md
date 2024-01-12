@@ -8,12 +8,13 @@ Grob-Planung
 Ich bin eigentich mit meinen Noten zufrieden auch wenn ich denke das ich in Englisch einen besseren Durchschnitt erreichen hätte können. Am besten war ich in dem Modul 431. Ich hatte in dem Modul eine 6 und in 319 und 162 hatte ich eine 4.5. Ich denke 319 war besonders wichtig weil man da am meisten programmierte und in den anderen Modulen lernte man eher andere Sachen wie die Bedinung von Excel usw. Ich habe mir vorgennomen in dieser lernperiode mehr zu planen und allgemein mehr zu programmieren. Ich könnte dies am besten üben indem ich einfach mehr arbeite und mehr Zeit investiere. Ein geeignetes Projekt wäre ein kleines Programm entweder ein Spiel oder ein hilfsmittel wie zb eine Nottenrechner. (120)
 
 12.1.2024
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mit Sebastian an dem Programmierproject Wortschatzquiz weitergearbeitet. Wir wollten den Bug vom Programm beheben aber wir haben es nicht geschaft. Wir haben Herr Colic um Hilfe gebittet und er hat uns geholfen, näher an die Lösung vom Problem zu kommen aber wir haben es noch nicht behoben. (50)
 
 19.1.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+[ ] Das Problem beim Programmierprojekt finden und lösen
+[ ] Einen eigenen Notenrechner programmieren und die ersten Schritte schon mal machen
+[ ] Weiter an dem Modul 117 arbeiten
+[ ] Programmier Videos für c# schauen und mehr lernen
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
 ...				
