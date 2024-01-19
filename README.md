@@ -19,14 +19,14 @@ Heute habe ich mit Sebastian an dem Programmierproject Wortschatzquiz weitergear
 | Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
 | ----------| ------- | ------------------------------------------------------------ |------------------------------------|
 |     1      |Wörter anklicken |Lösungstaste bei der Schwirigkeit leicht | Anzahl der richtigen Wörtern |
-|    2   |Alle Noten hinein geschrieben   |       Kalkulieren-Taste                                                   | Durchschnitt aller Noten |
-|   3   | Bei einem Moodle test eine Aufgabe lösen   |          überprüft ob es richtig ist                                                 | Richtige Antwort|
-|   4   |  Video drauf klicken | pause dücken  | Video pausiert|
+|    2  x |Alle Noten hinein geschrieben   |       Kalkulieren-Taste                                                   | Durchschnitt aller Noten |
+|   3 x  | Bei einem Moodle test eine Aufgabe lösen   |          überprüft ob es richtig ist                                                 | Richtige Antwort|
+|   4  x |  Video drauf klicken | pause dücken  | Video pausiert|
 |     |    |  |   |
 |       |    |   |   |
 |      |    | |   |
 |    |  |  |
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+Heute habe ich an meinem Programm gearbeitet und ich bin eigentlich einigermassen fertig aber ich kann mein Programm noch viel mehr erweitern und verschönern. Ich habe noch ein ein par Moodle Aufgaben gelöst und ich hatte fast keine Fehler. Nächstes mal werde ich mein Programm fertig programmieren. Ich hatte ein paar Probleme bei der Syntax aber diese konnte ich fixen. (60)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
