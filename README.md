@@ -32,24 +32,24 @@ Heute habe ich an meinem Programm gearbeitet und ich bin eigentlich einigermasse
 
 26.1.2024
 [ ] Das Programmierprojekt zum funktionieren bringen und den Modus schwer so weit fertig bringen das man auf die clickboxen clicken kann
-[ ] An dem Notenrechner weiter programmieren und ihn fertig zu machen
-[ ] Weiter an dem Modul 117 arbeiten und mindistens 3 Moodle Aufträge lösen
+[x] An dem Notenrechner weiter programmieren und ihn fertig zu machen
+[x] Weiter an dem Modul 117 arbeiten und mindistens 3 Moodle Aufträge lösen
 [ ] Diverse Youtube Videos schauen um mein wissen zu erweitern.
 
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 | Testfallnummer    | Ausgangslage |Eingabe                                             | Ausgabe|
 | ----------| ------- | ------------------------------------------------------------ |------------------------------------|
 |     1      |Wörter anklicken bei der Schwirigkeitsstufe Schwer |Lösungstaste | Anzahl der richtigen Wörtern |
-|    2   |Alle Noten hinein geschrieben   |       Kalkulieren-Taste                                                   | Durchschnitt aller Noten |
-|   3   | Bei einem Moodle auf die bewertungen klicken  |         es ladet                                             | es werden Fehler angezeigt.|
+|    2  x |Alle Noten hinein geschrieben   |       Kalkulieren-Taste                                                   | Durchschnitt aller Noten |
+|   3  x | Bei einem Moodle auf die bewertungen klicken  |         es ladet                                             | es werden Fehler angezeigt.|
 |   4   |  Video drauf klicken | pause dücken  | Video pausiert|
 |     |    |  |   |
 |       |    |   |   |
 |      |    | |   |
 |    |  |  |
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+heute habe ich am 26.01 den Notenrechner fertig programmiert und ein paar Moodle Aufträge gelöst. Bei dem Code hatte ich viele Bugs bei der Funktion bei der man keine Zahl unter 1 und über 6 eingeben kann, darum musste ich sie löschen was ich schade gefunden habe. Ich denke ich werde die Funktion in den ferien nochmals einfügen und versuchen es zum funktionieren zu bringen (65)
 
-☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
 
 16.2.2024
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
