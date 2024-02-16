@@ -52,9 +52,11 @@ heute habe ich am 26.01 den Notenrechner fertig programmiert und ein paar Moodle
 
 
 16.2.2024
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+Heute habe ich die Videos die man musste geschaut und mein programm gecheckt das alles in Ordnung ist. Ich habe gestern Abend noch ein wenig an dem Modul gearbeitet und deswegen habe ich Heute nicht den kompletten Nachmittag gearbeitet sondern nur die hälfte und gestern den Rest. Es hat mir sehr gefallen die Zeiten aufzuteillen.(55)
 
 Reflexion
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+In dieser Lernperiode 3 habe ich viele Sachen erledigt die für mich wichtig waren. Das war zb das Programmierprojekt oder auch die Aufgaben im Modul 117 und 164. Ich fande diese Lernperioden besser als die letzte von der Zeit her und auc hwie sie aufgebaut war. Ich denke ich habe meinen Noten Rechner jetzt fertig programmiert auch wenn ich denke das man immernoch ein paar Sachen verbessern können könnte. Ich denke ich hätte mehr in den Ferien programmieren sollen aber ich bin trozdem zufrienden auf meine Leistungen und ich fande wegen dem die Lernperiode auch gut. Ich freue mich schon auf die nächste Periode.(104)
+
+
 
 Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 10-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
