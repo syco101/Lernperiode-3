@@ -12,10 +12,10 @@ namespace Notenrechner
         static void Main(string[] args)
         {
 
-            ConsoleColor color = Console.ForegroundColor = ConsoleColor.Cyan; //Farbe wird auf grün gesetzt
+            ConsoleColor color = Console.ForegroundColor = ConsoleColor.Cyan; //Farbe wird auf Hellblau gesetzt
 
-            DateTime today = DateTime.Now;
-            Console.WriteLine(today);
+            DateTime Heute = DateTime.Now;             //Aktuelles Datum wird ausgegeben
+            Console.WriteLine(Heute);
             Console.WriteLine("Notenrechner");
 
             double Note1;
@@ -29,7 +29,7 @@ namespace Notenrechner
 
 
 
-            while (true) 
+            while (true)
             {
                 try
                 {
@@ -40,8 +40,7 @@ namespace Notenrechner
                     Console.WriteLine("Note 1:");
 
                     Note1 = Convert.ToDouble(Console.ReadLine());
-
-
+                   
 
                     Console.WriteLine("Bitte geben Sie Ihre Noten ein:");
                     Console.WriteLine("Note 2:");
@@ -52,46 +51,48 @@ namespace Notenrechner
                     Console.WriteLine("Note 3:");
 
                     Note3 = Convert.ToDouble(Console.ReadLine());
-
+                   
                     Console.WriteLine("Bitte geben Sie Ihre Noten ein:");
                     Console.WriteLine("Note 4:");                                                     // Eingabe der Noten
 
                     Note4 = Convert.ToDouble(Console.ReadLine());
-
+                   
                     Console.WriteLine("Bitte geben Sie Ihre Noten ein:");
                     Console.WriteLine("Note 5:");
 
                     Note5 = Convert.ToDouble(Console.ReadLine());
-
+                   
                     Console.WriteLine("Bitte geben Sie Ihre Noten ein:");
                     Console.WriteLine("Note 6");
 
                     Note6 = Convert.ToDouble(Console.ReadLine());
-
+                   
                     Console.WriteLine("Bitte geben Sie Ihre Noten ein:");
                     Console.WriteLine("Note 7");
 
                     Note7 = Convert.ToDouble(Console.ReadLine());
-
+                   
 
                     Console.WriteLine("Bitte geben Sie Ihre Noten ein:");
                     Console.WriteLine("Note 8 ");
 
                     Note8 = Convert.ToDouble(Console.ReadLine());
-
-
+                  
+                  
                     double Durchschnitt = (Note1 + Note2 + Note3 + Note4 + Note5 + Note6 + Note7 + Note8) / 8;          //Berechnung des Durchschnitts
                     Console.WriteLine("Ihr Durchschnitt ist: " + Durchschnitt);
+                
                 }
-                catch 
+
+                catch
                 {
                     Console.WriteLine("Bitte geben Sie eine Zahl ein!");
-                }  
-                    
-                
+                }
+
+
             }
-            
-           
+
+
         }
     }
 
